@@ -8,9 +8,11 @@
 _**Abstract**_ <br />
 In questo elaborato vengono presentati una serie di modelli appartenenti a tre grandi famiglie, ARIMA, UCM e machine learning. L'obiettivo primario è quello di affrontare un task di previsione di serie temporale riguardante l’andamento dei valori di monossido di carbonio. I modelli verranno valutati e confrontati sulla base della metrica MAPE, tramite anche l'ausilio di grafici.
 
-[Report](https://github.com/lorenzlorg/Streaming-Data-Management-and-Time-Series-Analysis-project/blob/main/relazione_SDMTSA_Lorgna_829776.pdf)
+[Report](https://github.com/lorenzlorg/Streaming-Data-Management-and-Time-Series-Analysis-project/blob/main/report%20SDMTSA.pdf)
 
-[Slide](https://github.com/lorenzlorg/)
+[Slide](https://github.com/lorenzlorg/Streaming-Data-Management-and-Time-Series-Analysis-project/blob/main/presentazione%20SDMTSA.pdf)
+
+[Codice](https://github.com/lorenzlorg/Streaming-Data-Management-and-Time-Series-Analysis-project/blob/main/code%20SDMTSA.ipynb)
 
 
 *Keywords*: Time series, Preprocessing, Data exploration, Time series forecasting, ARIMA, UCM, machine learning, KNN, LSTM      
